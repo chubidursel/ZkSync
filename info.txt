@@ -1,0 +1,6 @@
+First deployed contract (DEMO) -> 0xBf68265464f1850291680fBe1fec5A49f6BEE0f0 
+                        >>> The deployment is estimated to cost 0.02933427175 ETH
+
+Yarn Commands
+yarn hardhat compile
+yarn hardhat deploy-zksync
