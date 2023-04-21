@@ -1,0 +1,12 @@
+Liniks for diff types of SC
+
+Part#1 
+If we put names on the card
+https://polygonscan.com/address/0x112721c13dd721a543a0c805791dceebdbaf308d#code
+pic >> https://gateway.pinata.cloud/ipfs/QmWbZ2NGLWs8A1ap9mjLb8M8owDtTEBuimdAoVWqeYC7cQ/0
+
+
+Part#2
+No names
+https://arbiscan.io//address/0xd99c8d126504eda668b4d0cfa1173b54a43e6a72#code
+https://ipfs.io/ipfs/bafybeigm5liznxx4roejcmkcxpbqriqobhizkuhqq44wvu4crmu3p6mclu
