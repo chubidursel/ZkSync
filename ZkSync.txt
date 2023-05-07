@@ -1,0 +1,32 @@
+TASK
+
+1. Bridge
+
+WebSite -> https://bridge.zksync.io/
+SC -> 0x32400084c286cf3e17e7b677ea9583e60a000324
+Event -> requestL2Transaction
+
+2. Mute
+🤷 Explain in desc why user has to sign 2 tx (approve & transfer)
+WebSite ->   https://app.mute.io/swap
+SC MuteSwitchROuterDynamic -> 0x8B791913eB07C32779a16750e3868aA8495F5964
+SC (Approve) -> 0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4
+Events -> no
+Solution -> check balance before and compare to verify
+
+3. NFT / mintsquare
+WebSite -> https://mintsquare.io/mint
+SC -> 0x53eC17BD635F7A54B3551E76Fd53Db8881028fC3
+Event -> mint()
+
+4. spacefi
+WebSite -> https://swap-zksync.spacefi.io/#/swap
+SC -> 0xbE7D1FD1f6748bbDefC4fbaCafBb11C6Fc506d1d
+Event -> ❌
+
+
+
+----------------------- ZkEasy NFT ---------------------
+https://opensea.io/collection/quantum-key
+https://opensea.io/assets/arbitrum/0xd99c8d126504eda668b4d0cfa1173b54a43e6a72/317
+https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/62315126355801127317622512240088752874011299457922295100484068328403747474360

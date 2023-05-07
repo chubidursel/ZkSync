@@ -1,0 +1,12 @@
+{
+    "name": "ZkEasy NFT #5",
+    "description": "A pass to enter a new level",
+    "image": "ipfs://QmU7A3QqBgVtWbv6VQhE2K4RGYVdemhMLNdKH7nrh1zz96/5.png",
+    "website": "https://zkease.xyz/",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": "5"
+        }
+    ]
+}
